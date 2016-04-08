@@ -11,3 +11,5 @@ This is the introduction.
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Deployment info. This is a simple web project.
