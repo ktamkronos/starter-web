@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 
 Deployment info. This is a simple web project.
 
+## How to Contribute
+
+Please fork this repository.
+
 ## Copyright
 
 2014 Git.Training.
