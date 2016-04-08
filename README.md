@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Deployment info. This is a simple web project.
+
+## Copyright
+
+2014 Git.Training.
